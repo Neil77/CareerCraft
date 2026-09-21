@@ -1,4 +1,4 @@
-# CareerPath
+# CareerCraft
 
 Interactive student skill assessment and learning platform (SDG 4, SDG 8, SDG 10).
 
