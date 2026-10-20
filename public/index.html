@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Discover your skills | CareerCraft</title>
+  <meta name="description" content="CareerCraft helps students assess their skills, find gaps and follow a personalized learning path.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@600;700&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="home">
+  <header class="nav">
+    <div class="container nav-inner">
+      <a class="brand" href="index.html" aria-label="CareerCraft home">
+        <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="9" fill="#3b5bdb"/><path d="M9 23c0-6 14-4 14-10" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-dasharray="1 5"/><circle cx="9" cy="23" r="3" fill="#fff"/><circle cx="23" cy="9" r="3" fill="#fff"/></svg>
+        CareerCraft
+      </a>
+      <button class="nav-toggle" aria-expanded="false" aria-controls="menu">Menu</button>
+      <nav aria-label="Main">
+        <ul class="nav-links" id="menu">
+          <li><a href="index.html" data-page="home">Home</a></li>
+          <li><a href="careers.html" data-page="careers">Careers</a></li>
+          <li><a href="explore.html" data-page="explore">Career Matches</a></li>
+          <li><a href="assessment.html" data-page="assessment">Assessment</a></li>
+          <li><a href="analysis.html" data-page="analysis">Analysis</a></li>
+          <li><a href="quiz.html" data-page="quiz">Quiz</a></li>
+          <li><a href="dashboard.html" data-page="dashboard">Dashboard</a></li>
+          <li id="nav-account" class="nav-account"></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container hero-grid">
+        <div>
+          <h1>Discover your skills. Build your future.</h1>
+          <p class="lead">Not sure which career to explore? Discover options based on your interests. Already have a goal? Assess your skills, follow a learning plan, and track your improvement.</p>
+          <div class="btn-row">
+            <a class="btn" href="explore.html">Find my career matches</a>
+            <a class="btn secondary" href="careers.html">I have a career in mind</a>
+            <a class="btn secondary" href="#how">How it works</a>
+          </div>
+          <p id="resume-note" class="notice" hidden></p>
+        </div>
+        <div class="hero-art">
+          <svg viewBox="0 0 440 420" role="img" aria-label="A winding path passing through six skills: communication, problem solving, teamwork, leadership, time management and technical skills">
+            <path class="trail-line" d="M90 370 C 90 337, 330 337, 330 305 C 330 272, 90 272, 90 240 C 90 207, 330 207, 330 175 C 330 142, 90 142, 90 110 C 90 77, 330 77, 330 45"/>
+            <circle class="trail-node start" cx="90" cy="370" r="13"/><text class="trail-label" x="112" y="376">Communication</text>
+            <circle class="trail-node" cx="330" cy="305" r="13"/><text class="trail-label" x="308" y="311" text-anchor="end">Problem solving</text>
+            <circle class="trail-node" cx="90" cy="240" r="13"/><text class="trail-label" x="112" y="246">Teamwork</text>
+            <circle class="trail-node" cx="330" cy="175" r="13"/><text class="trail-label" x="308" y="181" text-anchor="end">Leadership</text>
+            <circle class="trail-node" cx="90" cy="110" r="13"/><text class="trail-label" x="112" y="116">Time management</text>
+            <circle class="trail-node" cx="330" cy="45" r="13"/><text class="trail-label" x="308" y="51" text-anchor="end">Technical skills</text>
+          </svg>
+        </div>
+      </div>
+    </section>
+
+    <section class="section alt">
+      <div class="container">
+        <div class="section-head"><h2>Why CareerCraft?</h2><p class="muted">The system is useful because it reduces the initial confusion involved in career exploration. A student can enter their interests and skills and immediately see relevant career options, the skills associated with those careers, and a possible learning direction. It acts as a starting-point career exploration tool rather than replacing human career counselling.</p></div>
+        <div class="grid-3">
+          <article class="card"><div class="icon-badge" aria-hidden="true">🔍</div><h3>Discover</h3><p>Answer short, situation-based questions and see where you are strongest.</p></article>
+          <article class="card"><div class="icon-badge" aria-hidden="true">📊</div><h3>Analyze</h3><p>See your score for each skill and the areas with the most room to grow.</p></article>
+          <article class="card"><div class="icon-badge" aria-hidden="true">🚀</div><h3>Improve</h3><p>Follow a step-by-step learning path and check your progress with quizzes.</p></article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="how">
+      <div class="container">
+        <div class="section-head"><h2>How it works</h2></div>
+        <ol class="flow">
+          <li><strong>Explore or choose</strong><span>Discover matches or pick a career you already want.</span></li>
+          <li><strong>Assess</strong><span>Answer 24 short scenarios across eight transferable skills.</span></li>
+          <li><strong>Analyze</strong><span>See your score in each skill, weighted for your career.</span></li>
+          <li><strong>Learn</strong><span>Follow a path built from your biggest career-relevant gaps.</span></li>
+          <li><strong>Test</strong><span>Take a short quiz on that skill.</span></li>
+          <li><strong>Track</strong><span>Watch your progress on the dashboard.</span></li>
+        </ol>
+      </div>
+    </section>
+
+    <section class="section alt">
+      <div class="container">
+        <div class="section-head"><h2>Skills covered</h2><p class="muted">Not just coding. These are skills every course and career asks for.</p></div>
+        <div class="grid-skills">
+          <div class="card skill-card"><span class="icon-badge" aria-hidden="true">💬</span><div><strong>Communication</strong><span>Expressing ideas clearly</span></div></div>
+          <div class="card skill-card"><span class="icon-badge" aria-hidden="true">🧩</span><div><strong>Problem solving</strong><span>Handling difficult situations</span></div></div>
+          <div class="card skill-card"><span class="icon-badge" aria-hidden="true">🤝</span><div><strong>Teamwork</strong><span>Working with others</span></div></div>
+          <div class="card skill-card"><span class="icon-badge" aria-hidden="true">🧭</span><div><strong>Leadership</strong><span>Taking responsibility</span></div></div>
+          <div class="card skill-card"><span class="icon-badge" aria-hidden="true">⏱️</span><div><strong>Time management</strong><span>Prioritizing tasks</span></div></div>
+          <div class="card skill-card"><span class="icon-badge" aria-hidden="true">🎨</span><div><strong>Creativity</strong><span>Generating new ideas</span></div></div>
+          <div class="card skill-card"><span class="icon-badge" aria-hidden="true">🔎</span><div><strong>Analytical thinking</strong><span>Reasoning from evidence</span></div></div>
+          <div class="card skill-card"><span class="icon-badge" aria-hidden="true">💻</span><div><strong>Technical skills</strong><span>Using tools and technology effectively</span></div></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="section-head"><h2>Connection to the Sustainable Development Goals</h2></div>
+        <div class="grid-3">
+          <article class="card sdg s4"><span class="tag">SDG 4: Quality Education</span><p>Supports accessible learning and skill development for every student.</p></article>
+          <article class="card sdg s8"><span class="tag">SDG 8: Decent Work and Economic Growth</span><p>Builds skills that matter for future work and career readiness.</p></article>
+          <article class="card sdg s10"><span class="tag">SDG 10: Reduced Inequalities</span><p>Gives every student free, equal access to learning opportunities.</p></article>
+        </div>
+      </div>
+    </section>
+
+    <section class="cta">
+      <div class="container">
+        <h2>Ready to discover your strengths?</h2>
+        <a class="btn" href="explore.html">Find my career matches</a>
+            <a class="btn secondary" href="careers.html">I have a career in mind</a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container">CareerCraft is a student mini project supporting SDG 4, SDG 8 and SDG 10. Your progress is saved to your account.</div>
+  </footer>
+
+  <script src="js/data.js"></script>
+  <script src="js/charts.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

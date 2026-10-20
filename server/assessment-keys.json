@@ -1,0 +1,1730 @@
+{
+  "swe_v2_problem_03": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "swe_v2_technical_21": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "swe_v2_teamwork_06": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "swe_v2_analytical_18": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "swe_v2_leadership_12": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "swe_v2_time_09": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "swe_v2_communication_00": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "swe_v2_creativity_15": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "swe_v2_creativity_16": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "swe_v2_technical_22": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "swe_v2_leadership_13": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "swe_v2_communication_01": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "swe_v2_problem_04": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "swe_v2_time_10": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "swe_v2_teamwork_07": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "swe_v2_analytical_19": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "swe_v2_technical_23": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "swe_v2_communication_02": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "swe_v2_creativity_17": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "swe_v2_leadership_14": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "swe_v2_teamwork_08": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "swe_v2_analytical_20": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "swe_v2_time_11": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "swe_v2_problem_05": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "aiml_v2_time_09": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "aiml_v2_analytical_18": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "aiml_v2_creativity_15": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "aiml_v2_communication_00": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "aiml_v2_teamwork_06": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "aiml_v2_leadership_12": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "aiml_v2_technical_21": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "aiml_v2_problem_03": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "aiml_v2_creativity_16": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "aiml_v2_analytical_19": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "aiml_v2_technical_22": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "aiml_v2_communication_01": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "aiml_v2_leadership_13": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "aiml_v2_teamwork_07": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "aiml_v2_problem_04": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "aiml_v2_time_10": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "aiml_v2_leadership_14": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "aiml_v2_time_11": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "aiml_v2_communication_02": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "aiml_v2_technical_23": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "aiml_v2_problem_05": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "aiml_v2_teamwork_08": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "aiml_v2_analytical_20": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "aiml_v2_creativity_17": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "dataeng_v2_problem_03": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "dataeng_v2_technical_21": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "dataeng_v2_time_09": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "dataeng_v2_communication_00": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "dataeng_v2_teamwork_06": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "dataeng_v2_creativity_15": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "dataeng_v2_analytical_18": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "dataeng_v2_leadership_12": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "dataeng_v2_leadership_13": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "dataeng_v2_analytical_19": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "dataeng_v2_technical_22": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "dataeng_v2_time_10": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "dataeng_v2_teamwork_07": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "dataeng_v2_communication_01": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "dataeng_v2_creativity_16": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "dataeng_v2_problem_04": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "dataeng_v2_technical_23": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "dataeng_v2_teamwork_08": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "dataeng_v2_creativity_17": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "dataeng_v2_time_11": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "dataeng_v2_leadership_14": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "dataeng_v2_problem_05": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "dataeng_v2_analytical_20": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "dataeng_v2_communication_02": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "cybersec_v2_technical_21": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "cybersec_v2_problem_03": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "cybersec_v2_communication_00": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "cybersec_v2_leadership_12": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "cybersec_v2_teamwork_06": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "cybersec_v2_creativity_15": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "cybersec_v2_analytical_18": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "cybersec_v2_time_09": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "cybersec_v2_communication_01": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "cybersec_v2_technical_22": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "cybersec_v2_problem_04": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "cybersec_v2_analytical_19": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "cybersec_v2_creativity_16": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "cybersec_v2_time_10": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "cybersec_v2_leadership_13": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "cybersec_v2_teamwork_07": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "cybersec_v2_creativity_17": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "cybersec_v2_communication_02": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "cybersec_v2_time_11": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "cybersec_v2_technical_23": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "cybersec_v2_analytical_20": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "cybersec_v2_problem_05": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "cybersec_v2_leadership_14": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "cybersec_v2_teamwork_08": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "electrical_v2_analytical_18": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "electrical_v2_teamwork_06": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "electrical_v2_technical_21": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "electrical_v2_communication_00": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "electrical_v2_time_09": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "electrical_v2_creativity_15": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "electrical_v2_leadership_12": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "electrical_v2_problem_03": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "electrical_v2_time_10": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "electrical_v2_problem_04": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "electrical_v2_teamwork_07": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "electrical_v2_communication_01": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "electrical_v2_technical_22": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "electrical_v2_leadership_13": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "electrical_v2_creativity_16": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "electrical_v2_analytical_19": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "electrical_v2_communication_02": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "electrical_v2_problem_05": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "electrical_v2_time_11": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "electrical_v2_teamwork_08": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "electrical_v2_leadership_14": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "electrical_v2_creativity_17": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "electrical_v2_technical_23": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "electrical_v2_analytical_20": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "electronics_v2_analytical_18": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "electronics_v2_time_09": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "electronics_v2_problem_03": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "electronics_v2_communication_00": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "electronics_v2_teamwork_06": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "electronics_v2_leadership_12": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "electronics_v2_technical_21": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "electronics_v2_creativity_15": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "electronics_v2_communication_01": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "electronics_v2_problem_04": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "electronics_v2_time_10": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "electronics_v2_teamwork_07": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "electronics_v2_analytical_19": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "electronics_v2_creativity_16": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "electronics_v2_leadership_13": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "electronics_v2_technical_22": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "electronics_v2_creativity_17": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "electronics_v2_technical_23": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "electronics_v2_teamwork_08": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "electronics_v2_problem_05": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "electronics_v2_time_11": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "electronics_v2_analytical_20": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "electronics_v2_communication_02": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "electronics_v2_leadership_14": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "embedded_v2_teamwork_06": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "embedded_v2_leadership_12": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "embedded_v2_technical_21": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "embedded_v2_time_09": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "embedded_v2_communication_00": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "embedded_v2_creativity_15": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "embedded_v2_analytical_18": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "embedded_v2_problem_03": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "embedded_v2_time_10": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "embedded_v2_problem_04": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "embedded_v2_technical_22": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "embedded_v2_creativity_16": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "embedded_v2_leadership_13": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "embedded_v2_communication_01": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "embedded_v2_teamwork_07": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "embedded_v2_analytical_19": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "embedded_v2_teamwork_08": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "embedded_v2_leadership_14": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "embedded_v2_time_11": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "embedded_v2_technical_23": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "embedded_v2_creativity_17": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "embedded_v2_problem_05": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "embedded_v2_analytical_20": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "embedded_v2_communication_02": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "mechanical_v2_creativity_15": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "mechanical_v2_technical_21": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "mechanical_v2_communication_00": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "mechanical_v2_teamwork_06": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "mechanical_v2_leadership_12": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "mechanical_v2_time_09": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "mechanical_v2_problem_03": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "mechanical_v2_analytical_18": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "mechanical_v2_leadership_13": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "mechanical_v2_time_10": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "mechanical_v2_communication_01": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "mechanical_v2_teamwork_07": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "mechanical_v2_technical_22": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "mechanical_v2_problem_04": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "mechanical_v2_analytical_19": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "mechanical_v2_creativity_16": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "mechanical_v2_time_11": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "mechanical_v2_analytical_20": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "mechanical_v2_teamwork_08": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "mechanical_v2_leadership_14": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "mechanical_v2_creativity_17": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "mechanical_v2_communication_02": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "mechanical_v2_problem_05": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "mechanical_v2_technical_23": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "robotics_v2_teamwork_06": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "robotics_v2_creativity_15": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "robotics_v2_analytical_18": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "robotics_v2_communication_00": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "robotics_v2_technical_21": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "robotics_v2_time_09": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "robotics_v2_leadership_12": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "robotics_v2_problem_03": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "robotics_v2_time_10": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "robotics_v2_communication_01": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "robotics_v2_technical_22": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "robotics_v2_analytical_19": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "robotics_v2_problem_04": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "robotics_v2_creativity_16": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "robotics_v2_teamwork_07": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "robotics_v2_leadership_13": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "robotics_v2_creativity_17": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "robotics_v2_analytical_20": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "robotics_v2_problem_05": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "robotics_v2_leadership_14": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "robotics_v2_communication_02": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "robotics_v2_time_11": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "robotics_v2_teamwork_08": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "robotics_v2_technical_23": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "industrial_v2_analytical_18": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "industrial_v2_time_09": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "industrial_v2_technical_21": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "industrial_v2_teamwork_06": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "industrial_v2_communication_00": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "industrial_v2_problem_03": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "industrial_v2_leadership_12": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "industrial_v2_creativity_15": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "industrial_v2_problem_04": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "industrial_v2_creativity_16": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "industrial_v2_time_10": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "industrial_v2_technical_22": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "industrial_v2_teamwork_07": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "industrial_v2_leadership_13": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "industrial_v2_communication_01": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "industrial_v2_analytical_19": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "industrial_v2_communication_02": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "industrial_v2_analytical_20": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "industrial_v2_creativity_17": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "industrial_v2_leadership_14": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "industrial_v2_time_11": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "industrial_v2_teamwork_08": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "industrial_v2_problem_05": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "industrial_v2_technical_23": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "civil_v2_technical_21": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "civil_v2_leadership_12": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "civil_v2_creativity_15": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "civil_v2_teamwork_06": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "civil_v2_analytical_18": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "civil_v2_communication_00": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "civil_v2_problem_03": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "civil_v2_time_09": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "civil_v2_problem_04": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "civil_v2_technical_22": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "civil_v2_communication_01": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "civil_v2_leadership_13": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "civil_v2_creativity_16": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "civil_v2_time_10": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "civil_v2_teamwork_07": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "civil_v2_analytical_19": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "civil_v2_creativity_17": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "civil_v2_communication_02": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "civil_v2_teamwork_08": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "civil_v2_analytical_20": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "civil_v2_technical_23": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "civil_v2_leadership_14": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "civil_v2_problem_05": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "civil_v2_time_11": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "chemical_v2_communication_00": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "chemical_v2_leadership_12": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "chemical_v2_creativity_15": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "chemical_v2_problem_03": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "chemical_v2_technical_21": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "chemical_v2_time_09": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "chemical_v2_analytical_18": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "chemical_v2_teamwork_06": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "chemical_v2_time_10": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "chemical_v2_technical_22": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "chemical_v2_communication_01": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "chemical_v2_teamwork_07": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "chemical_v2_creativity_16": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "chemical_v2_analytical_19": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "chemical_v2_leadership_13": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "chemical_v2_problem_04": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "chemical_v2_time_11": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "chemical_v2_problem_05": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "chemical_v2_creativity_17": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "chemical_v2_communication_02": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "chemical_v2_analytical_20": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "chemical_v2_leadership_14": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "chemical_v2_teamwork_08": [
+    3,
+    0,
+    1,
+    2
+  ],
+  "chemical_v2_technical_23": [
+    3,
+    0,
+    1,
+    2
+  ]
+}

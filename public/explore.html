@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Discover career matches | CareerCraft</title>
+  <meta name="description" content="CareerCraft helps students assess their skills, find gaps and follow a personalized learning path.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@600;700&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="explore">
+  <header class="nav">
+    <div class="container nav-inner">
+      <a class="brand" href="index.html" aria-label="CareerCraft home">
+        <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="9" fill="#3b5bdb"/><path d="M9 23c0-6 14-4 14-10" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-dasharray="1 5"/><circle cx="9" cy="23" r="3" fill="#fff"/><circle cx="23" cy="9" r="3" fill="#fff"/></svg>
+        CareerCraft
+      </a>
+      <button class="nav-toggle" aria-expanded="false" aria-controls="menu">Menu</button>
+      <nav aria-label="Main">
+        <ul class="nav-links" id="menu">
+          <li><a href="index.html" data-page="home">Home</a></li>
+          <li><a href="careers.html" data-page="careers">Careers</a></li>
+          <li><a href="explore.html" data-page="explore">Career Matches</a></li>
+          <li><a href="assessment.html" data-page="assessment">Assessment</a></li>
+          <li><a href="analysis.html" data-page="analysis">Analysis</a></li>
+          <li><a href="quiz.html" data-page="quiz">Quiz</a></li>
+          <li><a href="dashboard.html" data-page="dashboard">Dashboard</a></li>
+          <li id="nav-account" class="nav-account"></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <div class="page-head">
+      <span class="eyebrow">DISCOVER YOUR DIRECTION</span>
+      <h1>Which careers might suit your interests?</h1>
+      <p>Rate seven areas you enjoy. CareerCraft suggests careers using transparent, explainable scores. If you have also completed an assessment, your skill profile contributes to your matches.</p>
+      <p class="field-hint">Exploratory matches are not predictions of success or substitutes for career counselling, experience, or real-world requirements.</p>
+    </div>
+    <div id="explore-root"><p class="muted">Loading interest survey…</p></div>
+    <div style="height:3rem"></div>
+  </main>
+
+  <footer class="footer">
+    <div class="container">CareerCraft is a student mini project supporting SDG 4, SDG 8 and SDG 10. Your progress is saved to your account.</div>
+  </footer>
+
+  <script src="js/data.js"></script>
+  <script src="js/charts.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

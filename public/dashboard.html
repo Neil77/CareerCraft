@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Dashboard | CareerCraft</title>
+  <meta name="description" content="CareerCraft helps students assess their skills, find gaps and follow a personalized learning path.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@600;700&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="dashboard">
+  <header class="nav">
+    <div class="container nav-inner">
+      <a class="brand" href="index.html" aria-label="CareerCraft home">
+        <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="9" fill="#3b5bdb"/><path d="M9 23c0-6 14-4 14-10" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-dasharray="1 5"/><circle cx="9" cy="23" r="3" fill="#fff"/><circle cx="23" cy="9" r="3" fill="#fff"/></svg>
+        CareerCraft
+      </a>
+      <button class="nav-toggle" aria-expanded="false" aria-controls="menu">Menu</button>
+      <nav aria-label="Main">
+        <ul class="nav-links" id="menu">
+          <li><a href="index.html" data-page="home">Home</a></li>
+          <li><a href="careers.html" data-page="careers">Careers</a></li>
+          <li><a href="explore.html" data-page="explore">Career Matches</a></li>
+          <li><a href="assessment.html" data-page="assessment">Assessment</a></li>
+          <li><a href="analysis.html" data-page="analysis">Analysis</a></li>
+          <li><a href="quiz.html" data-page="quiz">Quiz</a></li>
+          <li><a href="dashboard.html" data-page="dashboard">Dashboard</a></li>
+          <li id="nav-account" class="nav-account"></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <div class="page-head">
+      <h1 style="font-size:2.2rem">Dashboard</h1>
+      <p>Your skills, learning progress and quiz scores in one place.</p>
+      <p id="dash-career" class="notice" hidden></p>
+    </div>
+    <div id="dash-root" hidden>
+      <div class="report-actions btn-row" style="margin-bottom:1.2rem">
+        <a class="btn secondary" href="explore.html">Explore career matches</a>
+        <a class="btn secondary" href="assessment.html">Retake assessment</a>
+        <button class="btn" type="button" id="print-report">Print / Save report as PDF</button>
+      </div>
+      <div class="stats">
+        <div class="card stat"><div class="num" id="stat-quiz">0%</div><div class="label">Latest quiz score</div></div>
+        <div class="card stat"><div class="num" id="stat-skills">0</div><div class="label">Skills assessed</div></div>
+        <div class="card stat"><div class="num" id="stat-steps">0</div><div class="label">Learning steps completed</div></div>
+      </div>
+      <div class="dash-grid">
+        <section class="card"><h2>Skill progress</h2><div class="bars" id="dash-bars"></div></section>
+        <section class="card"><h2>Learning progress</h2><div id="dash-learning"></div></section>
+      </div>
+      <section class="card" style="margin-top:1.2rem"><h2>Your skill growth across assessments</h2>
+        <p id="growth-summary" class="muted"></p><div id="growth-chart"></div>
+        <p class="field-hint">This trend reflects responses to short self-assessment scenarios, not an objective competence measure. Compare attempts across the same career when possible.</p>
+      </section>
+      <section class="card" style="margin-top:1.2rem"><h2>Quiz performance over time</h2>
+        <label for="quiz-filter">Filter by skill</label><select id="quiz-filter" class="filter-select"></select>
+        <div id="quiz-trend"></div>
+      </section>
+      <section class="card" style="margin-top:1.2rem"><h2>Quiz history</h2><div id="dash-history"></div></section>
+      <p style="margin-top:1.2rem"><button class="danger-link" id="reset">Reset all saved data</button></p>
+    </div>
+    <div style="height:3rem"></div>
+  </main>
+
+  <footer class="footer">
+    <div class="container">CareerCraft is a student mini project supporting SDG 4, SDG 8 and SDG 10. Your progress is saved to your account.</div>
+  </footer>
+
+  <script src="js/data.js"></script>
+  <script src="js/charts.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
